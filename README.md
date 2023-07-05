@@ -1,8 +1,8 @@
-👋🏼 I'm Rohit Jadhav AKA RadicalRohit
+Rohit B. Jadhav (RadicalRohit)
 ===============
 
-& I’m working on an **Ai Art Generator Tool**  call 'Radical Sphere', \
-using OpenAI and Stable Diffusion
+👋🏼 I’m Rohit, working on an **Ai Art Generator Tool**  call 'Radical X', using OpenAI and Stable Diffusion
+
 
 
 
@@ -36,11 +36,19 @@ Year 2015
   1. **Google Cardboard:** The Google Cardboard project was an immersive virtual reality experience that aimed to make VR accessible and affordable for everyone. Utilizing a simple cardboard viewer and a smartphone, users could step into a virtual world and explore a variety of captivating environments.
   2. **FIFA Player Impact Engine:** The FIFA Player Impact Engine project was a groundbreaking initiative aimed at revolutionizing the realism and physics of player interactions within the FIFA video game series. It sought to create a more authentic and dynamic experience by accurately simulating the collisions, reactions, and physical interactions between players on the virtual soccer field.
 
-
  
 ### Bachelors in Computer Science
 From Vivekananda College, MH, India 
 Year 2013
+
+
+
+## Let's discuss possibilities!!!
+- Mobile: +918408057235
+- Email: rohit.ab.jadhav@gmail.com
+- Behance: https://www.behance.net/radicalrohit
+- Instagram: https://www.instagram.com/radical.rohit/
+
 
 
 
