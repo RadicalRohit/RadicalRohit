@@ -1,12 +1,13 @@
 Rohit B. Jadhav (RadicalRohit)
 ===============
 
-👋🏼 I’m Rohit, currently working on an **Ai Art Generator Tool**  call 'Radical Sphere', using OpenAI and Stable Diffusion. 
-I am a creative technologist with a passion for creating, innovative and engaging digital experiences.
+Hello World, I'm Creative Technologist. 
+My curiosity and passion is into solving computational and environmental challenges.  
 
 
 
-## 👨🏻‍💻 8 YEARS of Experience 
+
+## 👨🏻‍💻 8 YEARS of Designing & Developing Digital and few Physical Products. 
 
 ### Creative Technologist and Owner
 **[Radical Sphere](https://www.RadicalSphere.com/)** | Pune, India | 2015 - Present
