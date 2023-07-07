@@ -16,6 +16,12 @@ I am a creative technologist with a passion for creating innovative and engaging
 
 #### Projects
 1. **[Radical Sphere](https://www.RadicalSphere.com/)** is an Ai Art Generator Tool, which uses OpenAI and Stable Diffusion to generate art. It is a web-based tool that allows users to create interfaces for their applications.
+- Developed an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
+- The interface generates novel designs with each click, leveraging state-of-the-art techniques.
+- Optimized GPU allocation and minimized computational requirements to enhance performance, ensuring seam- less operations of the system.
+- Explored opportunities to integrate the model into web3 technology, leading the way for decentralized and distributed implementation
+
+   
 
 2. **[Cloud Printing Factory](https://www.cloudprintingfactory.com/):** CloudPrintingFactory.com is a web app that allows users to upload their designs and have them printed. The app connects user with local printers and allows them to choose the printer that best suits their needs.
 
