@@ -2,12 +2,12 @@ Rohit B. Jadhav (RadicalRohit)
 ===============
 
 Hello World, I'm Creative Technologist. 
-My curiosity and passion is into solving computational and environmental challenges.  
+My curiosity and passion are for solving computational and environmental challenges.  
 
 
 
 
-## 👨🏻‍💻 8 YEARS of Designing & Developing Digital and few Physical Products. 
+## 👨🏻‍💻 8 YEARS of Experience in Designing & Developing Digital and Physical Products. 
 
 ### Creative Technologist and Owner
 **[Radical Sphere](https://www.RadicalSphere.com/)** | Pune, India | 2015 - Present
