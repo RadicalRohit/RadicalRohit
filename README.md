@@ -36,6 +36,14 @@ I am also an avid gamer and have been playing video games since I was a child. I
 
 5. 🧮 **[MathBoard]()** is an iOS keyboard calculator app. Perfect for anyone who needs a quick way to do maths on the go.
 
+6. **Safar Car Rental**🚕 is a cab/taxi booking app.
+***Features***
+   -  Driver Portal
+   -  Cab Booking
+   -  Bill Generator
+   -  Email Notification
+   -  ChatGPT Integration 
+
 
 #### **Client's Projects**
 1. **[Kanso Design Works](https://kansodesignworks.co/):** Kanso Design Works is a web design project that I worked on for a client. The goal of the project was to present UIUX Design case studies of Anay Patil, a UX Designer. The website was built using HTML, CSS, and JavaScript.
@@ -52,7 +60,7 @@ I am also an avid gamer and have been playing video games since I was a child. I
 ## 🎓 Education
 
 ### Master in Computer Application MCA
-From MIT, India. | Year 2015 
+From MIT, India | 2013 - 2015 
 
 #### Subjects I enjoyed the most:
   1. Artificial Intelligence
@@ -70,8 +78,7 @@ From MIT, India. | Year 2015
 
 
 ### Bachelor in Computer Science B.Sc.(CS)
-From Vivekananda College, MH, India.| Year 2013
-
+From Vivekananda College, MH, India | 2010 - 2013
 
 
 ## Creative Side on the Internet
