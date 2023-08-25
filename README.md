@@ -4,6 +4,7 @@ Rohit B. Jadhav (RadicalRohit)
 Hello World, I'm Creative Technologist. 
 My curiosity and passion are for solving computational and environmental challenges.  
 
+I have a strong background in web development and design, as well as a deep understanding of the latest web technologies and trends.
 
 
 
@@ -17,26 +18,21 @@ My curiosity and passion are for solving computational and environmental challen
 3. Optimizing GPU allocation and minimized computational requirements to enhance performance, ensuring seam-less operations of the Ai system.
 
 
-<!-- I am a creative technologist with a passion for innovating and designing engaging digital experiences. 
-
-I have a strong background in web development and design, as well as a deep understanding of the latest web technologies and trends.
-
-I am also an avid gamer and have been playing video games since I was a child. I am passionate about creating business solutions that are both creative and practical. I am a self-starter who is always looking for new challenges and opportunities to learn and grow. -->
-
 
 #### **Projects**
 1. **[Radical < • > Sphere](https://www.RadicalSphere.com/)** Developing an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
 
+2. **[Bottle Regeneration Ai model]** The project started with a challenge of creating 1000 novel bottle design for water packaging company 'AquaAwareness'. We develop an Ai model trained on 500 bottles img dataset and successfully deployed on Google Colab. It took 3 months of research and several white papers to solve such Ai challenges. The project experience is now been implemented in developing Radical Sphere an ai powered image generative designing tool.
 
-2. 🌩 🖨 🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/):** CloudPrintingFactory.com is a web app that allows users to upload their designs and have them printed. The app connects user with local printers and allows them to choose the printer that best suits their needs.
+3. 🌩 🖨 🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/):** CloudPrintingFactory.com is a web app that allows users to upload their designs and have them printed. The app connects user with local printers and allows them to choose the printer that best suits their needs.
 
-3. 🐕 **[Findoma.in](https://www.findoma.in/):** Findoma.in is a domain registrar. It allows users to register domains and manage their DNS records.
+4. 🐕 **[Findoma.in](https://www.findoma.in/):** Findoma.in is a domain registrar. It allows users to register domains and manage their DNS records.
 
-4. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/):** Extended Maps is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
+5. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/):** Extended Maps is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
 
-5. 🧮 **[MathBoard]()** is an iOS keyboard calculator app. Perfect for anyone who needs a quick way to do maths on the go.
+6. 🧮 **[MathBoard]()** is an iOS keyboard calculator app. Perfect for anyone who needs a quick way to do maths on the go.
 
-6. **Safar Car Rental**🚕 is a cab/taxi booking app.
+7. **Safar Car Rental**🚕 is a cab/taxi booking app.
 ***Features***
    -  Driver Portal
    -  Cab Booking
@@ -50,11 +46,13 @@ I am also an avid gamer and have been playing video games since I was a child. I
 
 2. **[Hiranya Resorts](https://www.hiranyaresorts.com/):** Hiranya Resorts is a web design project that I worked on for a client. The goal of the project was to present the resort and its facilities attractively and engagingly. The website was built using WIX.
 
+3. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation) is a UIUX, data segregation and web development project.
+
 
 ## 🛠 Skills
 - **Programming Languages:** C, Python, JavaScript, PHP, HTML5, CSS3, SQL, JSON, Solidity 
 - **Frameworks:** d3js, p5js, web3js OpenCV, OpenGL, React, Nodejs, Django, Flask, Bootstrap, jQuery.
-- **Databases:** PostgreSQL, GraphQL, Blockchain (decentralized, distributed and public digital ledger)
+- **Databases:** PostgreSQL, GraphQL, 
 - **Design Tools:** Figma, Adobe Illustrator, Adobe PhotoShop, Affinity Designer, Affinity Photos, Blender.
 
 ## 🎓 Education
