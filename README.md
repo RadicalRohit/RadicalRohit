@@ -46,7 +46,7 @@ I have a strong background in web development and design, as well as a deep unde
 
 2. **[Hiranya Resorts](https://www.hiranyaresorts.com/):** Hiranya Resorts is a web design project that I worked on for a client. The goal of the project was to present the resort and its facilities attractively and engagingly. The website was built using WIX.
 
-3. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation) is a UIUX, data segregation and web development project.
+3. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is a UIUX, data segregation and web development project.
 
 
 ## 🛠 Skills
