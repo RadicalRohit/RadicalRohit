@@ -32,13 +32,16 @@ I have a strong background in web development and design, as well as a deep unde
 
 6. 🧮 **[MathBoard]()** is an iOS keyboard calculator app. Perfect for anyone who needs a quick way to do maths on the go.
 
-7. 🚖 **Safar Car Rental** is a cab/taxi booking app.
+7. 🚖 **Safar Car Rental** is a peer 2 peer cab/taxi booking network.
 ***Features***
+   -  Ai language model integration for multiple platforms (Whatsapp, Telegram, Email)
    -  Driver Portal
-   -  Cab Booking
+   -  Cab Booking Interface 
    -  Bill Generator
-   -  Email Notification
-   -  ChatGPT Integration 
+   -  Peer 2 Peer Cab Service Network 
+
+
+
 
 
 #### **Client's Projects**
