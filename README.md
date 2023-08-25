@@ -32,7 +32,7 @@ I have a strong background in web development and design, as well as a deep unde
 
 6. 🧮 **[MathBoard]()** is an iOS keyboard calculator app. Perfect for anyone who needs a quick way to do maths on the go.
 
-7. **Safar Car Rental**🚕 is a cab/taxi booking app.
+7. 🚖 **Safar Car Rental** is a cab/taxi booking app.
 ***Features***
    -  Driver Portal
    -  Cab Booking
