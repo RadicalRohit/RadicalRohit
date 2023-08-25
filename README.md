@@ -42,9 +42,9 @@ I have a strong background in web development and design, as well as a deep unde
 
 
 #### **Client's Projects**
-1. **[Kanso Design Works](https://kansodesignworks.co/):** Kanso Design Works is a web design project that I worked on for a client. The goal of the project was to present UIUX Design case studies of Anay Patil, a UX Designer. The website was built using HTML, CSS, and JavaScript.
+1. **[Kanso Design Works](https://kansodesignworks.co/)** is a web design project that I worked on for a client. The goal of the project was to present UIUX Design case studies of Anay Patil, a UX Designer. The website was built using HTML, CSS, and JavaScript.
 
-2. **[Hiranya Resorts](https://www.hiranyaresorts.com/):** Hiranya Resorts is a web design project that I worked on for a client. The goal of the project was to present the resort and its facilities attractively and engagingly. The website was built using WIX.
+2. **[Hiranya Resorts](https://www.hiranyaresorts.com/)** is a web design project that I worked on for a client. The goal of the project was to present the resort and its facilities attractively and engagingly. The website was built using WIX.
 
 3. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is a UIUX, data segregation and web development project.
 
