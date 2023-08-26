@@ -30,26 +30,25 @@ I have a strong background in web development and design, as well as a deep unde
 
 5. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/)** is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
 
-6. 🧮 **[MathBoard]()** is an iOS keyboard calculator app. Perfect for anyone who needs a quick way to do maths on the go.
+6. 🧮 **[MathBoard]()** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
 
 7. 🚖 **Safar Car Rental** is a peer 2 peer cab/taxi booking network.
 ***Features***
-   -  Ai language model integration for multiple platforms (Whatsapp, Telegram, Email)
-   -  Driver Portal
-   -  Cab Booking Interface 
-   -  Bill Generator
    -  Peer 2 Peer Cab Service Network 
-
+   -  Ai language model integration for multiple platforms (Whatsapp, Telegram, Email)
 
 
 
 
 #### **Client's Projects**
-1. **[Kanso Design Works](https://kansodesignworks.co/)** is a web design project that I worked on for a client. The goal of the project was to present UIUX Design case studies of Anay Patil, a UX Designer. The website was built using HTML, CSS, and JavaScript.
+1. **[Kanso Design Works](https://kansodesignworks.co/)** is a UIUX Designer portfolio website built using HTML5, CSS3, and JavaScript.
 
-2. **[Hiranya Resorts](https://www.hiranyaresorts.com/)** is a web design project that I worked on for a client. The goal of the project was to present the resort and its facilities attractively and engagingly. The website was built using WIX.
+2. 🏩**[Hiranya Resorts](https://www.hiranyaresorts.com/):**
+The goals of this website was to present Hiranya Resort attractively and engagingly. It was built using WIX.
 
-3. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is a UIUX, data segregation and web development project.
+3. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is a e-commerce project to represents 100+ irrigation products and create company's digital presence. It was build using HTML5, CSS3, Javascript. Provide product data was cleaned, segregated and stored in JSON format.
+
+4. **[Environ Propacks](https://environ-propack.web.app)** are packaging products trader who wanted to take their game at an international level. I assisted them with building digital brand, UIUX and website. Conversation rate and trust has been improved exponentially.
 
 
 ## 🛠 Skills
@@ -57,6 +56,7 @@ I have a strong background in web development and design, as well as a deep unde
 - **Frameworks:** d3js, p5js, web3js OpenCV, OpenGL, React, Nodejs, Django, Flask, Bootstrap, jQuery.
 - **Databases:** PostgreSQL, GraphQL, 
 - **Design Tools:** Figma, Adobe Illustrator, Adobe PhotoShop, Affinity Designer, Affinity Photos, Blender.
+
 
 ## 🎓 Education
 
