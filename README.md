@@ -26,10 +26,9 @@ I have a strong background in web development and design, as well as a deep unde
 
 3. 🌩 🖨 🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
 How it works?
-Upload Design > Colaborate with Printer > Get Delivered at your doorstep. 
-
-
-that allows users to upload their designs and have them printed. The app connects user with local printers and allows them to choose the printer that best suits their needs.
+1. Upload Design 
+2. Colaborate with Printer 
+3. Get Delivered at your doorstep. 
 
 4. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar. It allows users to register domains and manage their DNS records.
 
@@ -42,6 +41,7 @@ that allows users to upload their designs and have them printed. The app connect
    -  Peer 2 Peer Cab Service Network 
    -  Ai language model integration for multiple platforms (Whatsapp, Telegram, Email)
 
+8. **[Rolling Rockets](http://www.rollingrockets.space)** is a weed accessories artistic e-commerce website. Improve rolling paper packaging design that helped company in saving ~40% in manufacturing cost.
 
 
 
