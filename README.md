@@ -30,16 +30,13 @@ How it works?
    2. Colaborate with Printer 
    3. Get Delivered at your doorstep. 
 
-4. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar. It allows users to register domains and manage their DNS records.
+4. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar website. It allows users to register domains and manage their DNS records.
 
 5. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/)** is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
 
 6. 🧮 **[MathBoard]()** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
 
-7. 🚖 **Safar Car Rental** is a peer 2 peer cab/taxi booking network.
-***Features***
-   -  Peer 2 Peer Cab Service Network 
-   -  Ai language model integration for multiple platforms (Whatsapp, Telegram, Email)
+7. 🚖 **Safar Car Rental** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
 
 8. **[Rolling Rockets](http://www.rollingrockets.space)** is a weed accessories artistic e-commerce website. Improve rolling paper packaging design that helped company in saving ~40% in manufacturing cost.
 
