@@ -26,9 +26,9 @@ I have a strong background in web development and design, as well as a deep unde
 
 3. 🌩 🖨 🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
 How it works?
-1. Upload Design 
-2. Colaborate with Printer 
-3. Get Delivered at your doorstep. 
+   1. Upload Design 
+   2. Colaborate with Printer 
+   3. Get Delivered at your doorstep. 
 
 4. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar. It allows users to register domains and manage their DNS records.
 
