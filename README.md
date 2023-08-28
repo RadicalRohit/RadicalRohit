@@ -43,8 +43,7 @@ How it works?
 #### **Client's Projects**
 1. **[Kanso Design Works](https://kansodesignworks.co/)** is a UIUX Designer portfolio website built using HTML5, CSS3, and JavaScript.
 
-2. 🏩**[Hiranya Resorts](https://www.hiranyaresorts.com/):**
-The goals of this website was to present Hiranya Resort attractively and engagingly. It was built using WIX.
+2. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com/):** The goals of this website was to present Hiranya Resort attractively and engagingly. It was built using WIX.
 
 3. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is a e-commerce project to represents 100+ irrigation products and create company's digital presence. It was build using HTML5, CSS3, Javascript. Provide product data was cleaned, segregated and stored in JSON format.
 
