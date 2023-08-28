@@ -20,7 +20,7 @@ I have a strong background in web development and design, as well as a deep unde
 
 
 #### **Projects**
-1. **[Radical < • > Sphere](https://www.RadicalSphere.com/)** Developing an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
+1. **[Radical <•> Sphere](https://www.RadicalSphere.com/)** Developing an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
 
 2. **Bottle Regeneration Ai model** The project started with a challenge of creating 1000 novel bottle design for water packaging company 'AquaAwareness'. We develop an Ai model trained on 500 bottles img dataset and successfully deployed on Google Colab. It took 3 months of research and several white papers to solve such Ai challenges. The project experience is now been implemented in developing Radical Sphere an ai powered image generative designing tool.
 
@@ -37,8 +37,6 @@ How it works?
 6. 🧮 **[MathBoard]()** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
 
 7. 🚖 **Safar Car Rental** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
-
-8. **[Rolling Rockets](http://www.rollingrockets.space)** is a weed accessories artistic e-commerce website. Improve rolling paper packaging design that helped company in saving ~40% in manufacturing cost.
 
 
 
