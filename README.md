@@ -26,10 +26,6 @@ I have a strong background in web development and design, as well as a deep unde
 2. **Bottle Regeneration Ai model** The project started with a challenge of creating 1000 novel bottle design for water packaging company 'AquaAwareness'. We develop an Ai model trained on 500 bottles img dataset and successfully deployed on Google Colab. It took 3 months of research and several white papers to solve such Ai challenges. The project experience is now been implemented in developing Radical Sphere an ai powered image generative designing tool.
 
 3. 🌩 🖨 🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
-How it works?
-   1. Upload Design 
-   2. Colaborate with Printer 
-   3. Get Delivered at your doorstep. 
 
 4. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar website. It allows users to register domains and manage their DNS records.
 
