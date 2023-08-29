@@ -42,11 +42,12 @@ How it works?
 
 
 #### **Client's Projects**
-1. **[Kanso Design Works](https://kansodesignworks.co/)** is a UIUX Designer portfolio website built using HTML5, CSS3, and JavaScript.
 
-2. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com/):** The goals of this website was to present Hiranya Resort attractively and engagingly. It was built using WIX.
+1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com/):** The goals of this website was to present Hiranya Resort attractively and engagingly. It was built using WIX.
 
-3. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is a e-commerce project to represents 100+ irrigation products and create company's digital presence. It was build using HTML5, CSS3, Javascript. Provide product data was cleaned, segregated and stored in JSON format.
+2. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is a e-commerce project to represents 100+ irrigation products and create company's digital presence. It was build using HTML5, CSS3, Javascript. Provide product data was cleaned, segregated and stored in JSON format.
+
+3. **[Kanso Design Works](https://kansodesignworks.co/)** is a UIUX Designer portfolio website built using HTML5, CSS3, and JavaScript.
 
 4. **[Environ Propacks](https://environ-propack.web.app)** are packaging products trader who wanted to take their game at an international level. I assisted them with building digital brand, UIUX and website. Conversation rate and trust has been improved exponentially.
 
@@ -99,6 +100,7 @@ From MIT, India | 2013 - 2015
 
 #### Project:
   1. **Google Cardboard:** The Google Cardboard project was an immersive virtual reality experience that aimed to make VR accessible and affordable for everyone. Utilizing a simple cardboard viewer and a smartphone, users could step into a virtual world and explore a variety of captivating environments.
+
   2. **FIFA Player Impact Engine:** The FIFA Player Impact Engine project was a groundbreaking initiative aimed at revolutionizing the realism and physics of player interactions within the FIFA video game series. It sought to create a more authentic and dynamic experience by accurately simulating the collisions, reactions, and physical interactions between players on the virtual soccer field.
 
 
