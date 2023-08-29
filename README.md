@@ -72,8 +72,15 @@ How it works?
    - Bootstrap
    - jQuery
 
-- **Databases:** PostgreSQL, GraphQL, 
-- **Design Tools:** Figma, Adobe Illustrator, Adobe PhotoShop, Affinity Designer, Affinity Photos, Blender.
+- **Databases:** 
+   - PostgreSQL
+   - GraphQL
+
+- **Design Tools:** 
+   - Figma
+   - Adobe XD, Illustrator and PhotoShop
+   - Affinity Designer and Photos
+   - Blender.
 
 
 ## 🎓 Education
@@ -81,7 +88,7 @@ How it works?
 ### Master in Computer Application MCA
 From MIT, India | 2013 - 2015 
 
-#### Subjects I enjoyed the most:
+#### Subjects:
   1. Artificial Intelligence
   2. Cryptography
   3. Data Mining and Warehousing
@@ -101,8 +108,8 @@ From Vivekananda College, MH, India | 2010 - 2013
 
 
 ## 💼 Creative Side on the Internet
-- Béhance: https://www.behance.net/radicalrohit
-- Instagram: https://www.instagram.com/radical.rohit/
+[Béhance](https://www.behance.net/radicalrohit)
+[Instagram](https://www.instagram.com/radical.rohit)
 
 
 ## 📫 How to reach me
