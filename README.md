@@ -11,7 +11,7 @@ I have a strong background in web development and design, as well as a deep unde
 ## 👨🏻‍💻 8 YEARS of Experience in Designing & Developing Digital and Physical Products. 
 
 ### Creative Technologist and Owner
-**[Radical Sphere](https://www.RadicalSphere.com/)** | Pune, India | 2015 - Present
+**[Radical [•] Sphere](https://www.RadicalSphere.com/)** | Pune, India | 2015 - Present
 
 1. Design User Experience and User Interface for Web and Mobile Applications.
 2. Research and Develop new technologies and tools.
