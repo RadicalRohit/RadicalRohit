@@ -53,9 +53,25 @@ How it works?
 
 ## 🛠 Skills
 - **Programming Languages:** 
-   • C, 
-   • Python, JavaScript, PHP, HTML5, CSS3, SQL, JSON, Solidity 
-- **Frameworks:** d3js, p5js, web3js OpenCV, OpenGL, React, Nodejs, Django, Flask, Bootstrap, jQuery.
+   - C
+   - Python
+   - JavaScript
+   - PHP
+   - Go
+   - Elm Lang 
+
+- **Frameworks:** 
+   - d3js
+   - p5js
+   - web3js 
+   - OpenCV
+   - OpenGL
+   - React
+   - Nodejs
+   - Django
+   - Bootstrap
+   - jQuery
+
 - **Databases:** PostgreSQL, GraphQL, 
 - **Design Tools:** Figma, Adobe Illustrator, Adobe PhotoShop, Affinity Designer, Affinity Photos, Blender.
 
