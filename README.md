@@ -108,7 +108,7 @@ From Vivekananda College, MH, India | 2010 - 2013
 
 
 ## 💼 Creative Side on the Internet
-[Béhance](https://www.behance.net/radicalrohit)
+[Béhance](https://www.behance.net/radicalrohit) | 
 [Instagram](https://www.instagram.com/radical.rohit)
 
 
