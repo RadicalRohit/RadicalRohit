@@ -41,15 +41,20 @@ The project experience is now been implemented in developing Radical Sphere an a
 
 #### **Client's Projects**
 
-1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com/):** The goals of this website was to present Hiranya Resort attractively and engagingly. It was built using WIX.
+1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com),a 5 star lakeside resort, hired me for designing and developing an attractive and engaging resort website using WIX. 
+Results: Direct booking and inquiries via website has been increased
 
-2. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is a e-commerce project to represents 100+ irrigation products and create company's digital presence. It was build using HTML5, CSS3, Javascript. Provide product data was cleaned, segregated and stored in JSON format.
+2. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. 
+I helped them segregate and present product data on their website.
 
-3. **[Kanso Design Works](https://kansodesignworks.co/)** is a UIUX Designer portfolio website built using HTML5, CSS3, and JavaScript.
+3. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website for Anay Patil.
+I helped Anay, convert his Figma website designs into HTML5, CSS3 and JavaScript.
 
-4. **[Environ Propacks](https://environ-propack.web.app)** are packaging products trader who wanted to take their game at an international level. I assisted them with building digital brand, UIUX and website. Conversation rate and trust has been improved exponentially.
+4. **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. 
+I assisted in building their digital brand and website. 
+Results: Conversation rate and trust has been improved exponentially.
 
-5. **[Rolling Rockets ](rollingrockets.space)** is trippy e-commerce website.
+5. **[Rolling Rockets ](rollingrockets.space)** is trippy e-commerce website. 
 
 
 ## 🛠 Skills
