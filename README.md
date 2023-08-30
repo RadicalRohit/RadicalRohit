@@ -27,12 +27,11 @@ I have a strong background in web development and design, as well as a deep unde
 
 6. 🧮 **[MathBoard]()** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
 
-3. 🌩 🖨 🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
+3. 🌩 🖨 🏭 **[Cloud Printing Factory .com](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
 
 4. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar website. It allows users to register domains and manage their DNS records.
 
 5. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/)** is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
-
 
 
 7. 🚖 **Safar Car Rental** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
@@ -48,6 +47,8 @@ I have a strong background in web development and design, as well as a deep unde
 3. **[Kanso Design Works](https://kansodesignworks.co/)** is a UIUX Designer portfolio website built using HTML5, CSS3, and JavaScript.
 
 4. **[Environ Propacks](https://environ-propack.web.app)** are packaging products trader who wanted to take their game at an international level. I assisted them with building digital brand, UIUX and website. Conversation rate and trust has been improved exponentially.
+
+5. **[Rolling Rockets ](rollingrockets.space)** is trippy e-commerce website.
 
 
 ## 🛠 Skills
