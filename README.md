@@ -41,7 +41,7 @@ The project experience is now been implemented in developing Radical Sphere an a
 
 #### **Client's Projects**
 
-1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com),a 5 star lakeside resort, hired me for designing and developing an attractive and engaging resort website using WIX. 
+1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)**,a 5 star lakeside resort, hired me for designing and developing an attractive and engaging resort website using WIX. 
 Results: Direct booking and inquiries via website has been increased
 
 2. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. 
