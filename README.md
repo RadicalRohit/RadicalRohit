@@ -1,10 +1,7 @@
 Rohit B. Jadhav (RadicalRohit)
 ===
 
-Hello World, I'm ```Creative Technologist``` and 
-my curiosity and passion are for solving computational and environmental challenges.  
-
-I have a strong background in Web Development and User Experience Desinging, as well as a deep understanding of Computer Science.
+Hello World, I'm Creative Technologist and my curiosity and passion are for solving computational and environmental challenges. I have a strong background in Web Development, User Experience Desinging, as well as a deep understanding of Computer Science.
 
 
 
@@ -18,34 +15,24 @@ The project experience is now been implemented in developing Radical Sphere an a
 
 3. 🧮 **[MathBoard]()** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
 
-4. 🌩🖨🏭 **[Cloud Printing Factory .com](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
+4. 🌩🖨🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
 
 5. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar website. It allows users to register domains and manage their DNS records.
 
-6. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/)** is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
+6. 🚖 **[Safar Car Rental]()** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
 
-7. 🚖 **Safar Car Rental** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
+7. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort, who hired me for designing an attractive and engaging resort website using WIX. Direct booking and inquiries via website increased exponentially.
 
+8. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I helped them with segregating product data and designed e-commerce website.
 
+9. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
+I helped Anay, convert his Figma designs into website.
 
-#### **Client's Projects**
+10. **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. I assist them in building digital brand and website. 
 
-1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)**,a 5 star lakeside resort, hired me for designing and developing an attractive and engaging resort website using WIX. 
-Results: Direct booking and inquiries via website has been increased
+11. **[Rolling Rockets](rollingrockets.space)** is trippy e-commerce website. 
 
-2. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. 
-I helped them segregate and present product data on their website.
-
-3. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website for Anay Patil.
-I helped Anay, convert his Figma website designs into HTML5, CSS3 and JavaScript.
-
-4. **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. 
-I assisted in building their digital brand and website. 
-Results: Conversation rate and trust has been improved exponentially.
-
-5. **[Rolling Rockets ](rollingrockets.space)** is trippy e-commerce website. 
-
-
+12. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/)** is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
 
 
 
@@ -53,11 +40,11 @@ Results: Conversation rate and trust has been improved exponentially.
 
 ## 👨🏻‍💻 Decade of Experience in Designing & Developing Digital and Physical Products. 
 
-```NOV 15 - PRESENT```  **[Radical • Sphere](https://radicalsphere.com)** Remote, Bharat - Creative Technologist 
+```NOV 15 - PRESENT```  **Radical [•] Sphere** Remote, Bharat - Creative Technologist 
 
 ```OCT 19 - PRESENT```  **Crooked Line Art** Remote, Bharat - UI Designer and UX Researcher 
 
-```JAN 23 - PRESENT```   **Environ India** AWB, Bharat - Environmentalist
+```JAN 23 - PRESENT```  **Environ India** AWB, Bharat - Environmentalist
 
 
 
