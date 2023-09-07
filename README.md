@@ -1,22 +1,12 @@
 Rohit B. Jadhav (RadicalRohit)
-===============
+===
 
-Hello World, I'm Creative Technologist. 
-My curiosity and passion are for solving computational and environmental challenges.  
+Hello World, I'm ```Creative Technologist``` and 
+my curiosity and passion are for solving computational and environmental challenges.  
 
-I have a strong background in web development and design, as well as a deep understanding of the latest web technologies and trends.
+I have a strong background in Web Development and User Experience Desinging, as well as a deep understanding of Computer Science.
 
 
-
-## 👨🏻‍💻 8 YEARS of Experience in Designing & Developing Digital and Physical Products. 
-
-### Creative Technologist and Owner
-**[Radical [•] Sphere](https://www.RadicalSphere.com/)** | Pune, India | 2015 - Present
-
-#### **Roles & Responsibility**
-1. Design User Experience and User Interface for Web and Mobile Applications.
-2. Research and Develop new technologies and tools.
-3. Optimizing GPU allocation and minimized computational requirements to enhance performance, ensuring seam-less operations of the Ai system.
 
 
 
@@ -26,14 +16,13 @@ I have a strong background in web development and design, as well as a deep unde
 2. **Bottle Regeneration Ai model** The project started with a challenge of creating 10,000 novel bottle design for water packaging company. We trained Ai model using 500  images of bottles on Google Colab.
 The project experience is now been implemented in developing Radical Sphere an ai powered image generative designing tool.
 
-6. 🧮 **[MathBoard]()** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
+3. 🧮 **[MathBoard]()** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
 
-3. 🌩 🖨 🏭 **[Cloud Printing Factory .com](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
+4. 🌩🖨🏭 **[Cloud Printing Factory .com](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
 
-4. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar website. It allows users to register domains and manage their DNS records.
+5. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar website. It allows users to register domains and manage their DNS records.
 
-5. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/)** is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
-
+6. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/)** is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
 
 7. 🚖 **Safar Car Rental** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
 
@@ -55,6 +44,21 @@ I assisted in building their digital brand and website.
 Results: Conversation rate and trust has been improved exponentially.
 
 5. **[Rolling Rockets ](rollingrockets.space)** is trippy e-commerce website. 
+
+
+
+
+
+
+
+## 👨🏻‍💻 Decade of Experience in Designing & Developing Digital and Physical Products. 
+
+```NOV 15 - PRESENT```  **[Radical • Sphere](https://radicalsphere.com)** Remote, Bharat - Creative Technologist 
+
+```OCT 19 - PRESENT```  **Crooked Line Art** Remote, Bharat - UI Designer and UX Researcher 
+
+```JAN 23 - PRESENT```   **Environ India** AWB, Bharat - Environmentalist
+
 
 
 ## 🛠 Skills
