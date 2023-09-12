@@ -8,12 +8,13 @@ Hello World, I'm Creative Technologist and my curiosity and passion are for solv
 
 
 #### **Projects**
+
 1. **[Radical [•] Sphere](https://www.RadicalSphere.com/)** Developing an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
 
 2. **Bottle Regeneration Ai model** The project started with a challenge of creating 10,000 novel bottle design for water packaging company. We trained Ai model using 500  images of bottles on Google Colab.
 The project experience is now been implemented in developing Radical Sphere an ai powered image generative designing tool.
 
-3. 🧮 **[MathBoard]()** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
+3. 🧮 **[MathBoard](https://radicalrohit.github.io/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
 
 4. 🌩🖨🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
 
@@ -29,11 +30,6 @@ The project experience is now been implemented in developing Radical Sphere an a
 I helped Anay, convert his Figma designs into website.
 
 10. **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. I assist them in building digital brand and website. 
-
-11. **[Rolling Rockets](rollingrockets.space)** is trippy e-commerce website. 
-
-12. 🗺 **[Extended Maps](https://www.instagram.com/extendedmaps/)** is an Instagram page that I created to share my passion for maps and data visualization. I post maps and data visualizations that I find interesting, and I also create my own maps and data visualizations.
-
 
 
 
