@@ -57,25 +57,9 @@ I helped Anay, convert his Figma designs into website.
 
 
 ## 🛠 Skills
-- **Programming Languages:** 
-   - C
-   - Python
-   - JavaScript
-   - PHP
-   - Go
-   - Elm Lang 
+- **Programming Languages:** C, Python, JavaScript, PHP, Go, Elm Lang 
 
-- **Frameworks:** 
-   - d3js
-   - p5js
-   - web3js 
-   - OpenCV
-   - OpenGL
-   - React
-   - Nodejs
-   - Django
-   - Bootstrap
-   - jQuery
+- **Frameworks:** d3js, p5js, web3js, OpenCV, OpenGL, React, Nodejs, Django, Bootstrap, jQuery
 
 - **Databases:** 
    - PostgreSQL
