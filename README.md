@@ -40,19 +40,19 @@ I helped Anay, convert his Figma designs into website.
 
 ## 👨🏻‍💻 Decade of Experience in Designing & Developing Digital and Physical Products. 
 
-```NOV 15 - PRESENT```  **Radical [•] Sphere** Remote, Bharat - Creative Technologist, UI Designer and UX Researcher
+```NOV 15 - PRESENT```  **Radical [•] Sphere** Remote, India - Creative Technologist, UI Designer and UX Researcher
 
-```JAN 23 - PRESENT```  **Environ India** AWB, Bharat - Environmentalist
+```JAN 23 - PRESENT```  **Environ India** AWB, India - Environmentalist
 
 
 
-```NOV 19 - FEB 20```  **Kanso Deisgn Works** AWB, Bharat - UI Developer 
+```NOV 19 - FEB 20```  **Kanso Deisgn Works** AWB, India - UI Developer 
 
-```JUL 19 - SEP 19```  **HomzHub** Pune, MH, Bharat - UIUX Developer 
+```JUL 19 - SEP 19```  **HomzHub** Pune, MH, India - UIUX Developer 
 
-```MAY 18 - JUN 19```  **EcoTech IT Services** Pune, MH, Bharat - UI Developer 
+```MAY 18 - JUN 19```  **EcoTech IT Services** Pune, MH, India - UI Developer 
 
-```DEC 17 - MAR 18```  **Fosterbin Technologies** AWB, MH, Bharat - Web Designer 
+```DEC 17 - MAR 18```  **Fosterbin Technologies** AWB, MH, India - Web Designer 
 
 
 
