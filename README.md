@@ -61,15 +61,9 @@ I helped Anay, convert his Figma designs into website.
 
 - **Frameworks:** d3js, p5js, web3js, OpenCV, OpenGL, React, Nodejs, Django, Bootstrap, jQuery
 
-- **Databases:** 
-   - PostgreSQL
-   - GraphQL
+- **Databases:** PostgreSQL, GraphQL
 
-- **Design Tools:** 
-   - Figma
-   - Adobe XD, Illustrator and PhotoShop
-   - Affinity Designer and Photos
-   - Blender.
+- **Design Tools:** Figma, Adobe (XD, Illustrator and PhotoShop), Affinity Designer and Photos, Blender.
 
 
 ## 🎓 Education
