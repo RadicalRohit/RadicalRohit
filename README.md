@@ -11,8 +11,7 @@ Hello World, I'm Creative Technologist and my curiosity and passion are for solv
 
 1. **[Radical [•] Sphere](https://www.RadicalSphere.com/)** Developing an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
 
-2. **Bottle Regeneration Ai model** The project started with a challenge of creating 10,000 novel bottle design for water packaging company. We trained Ai model using 500  images of bottles on Google Colab.
-The project experience is now been implemented in developing Radical Sphere an ai powered image generative designing tool.
+2. **Bottle Regeneration Ai model** The project started with a challenge of creating 10,000 novel bottle design for water packaging company. We trained Ai model using 500  images of bottles on Google Colab. The project experience is now been implemented in developing Radical Sphere an Ai  image generative designing tool.
 
 3. 🧮 **[MathBoard](https://radicalrohit.github.io/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
 
@@ -36,30 +35,28 @@ I helped Anay, convert his Figma designs into website.
 
 ## 👨🏻‍💻 Decade of Experience in Designing & Developing Digital and Physical Products. 
 
-```NOV 15 - PRESENT```  **Radical [•] Sphere** Remote, India - Creative Technologist, UI Designer and UX Researcher
+```NOV 19 - PRESENT```  **Radical [•] Sphere** Remote, India - Creative Technologist, UI Designer and UX Researcher and AI Researcher
 
 ```JAN 23 - PRESENT```  **Environ India** AWB, India - Environmentalist
 
 
 
-```NOV 19 - FEB 20```  **Kanso Deisgn Works** AWB, India - UI Developer 
-
-```JUL 19 - SEP 19```  **HomzHub** Pune, MH, India - UIUX Developer 
+```JUL 19 - FEB 20```  **Kanso Deisgn Works** Pune, MH, India - UI Developer 
 
 ```MAY 18 - JUN 19```  **EcoTech IT Services** Pune, MH, India - UI Developer 
 
-```DEC 17 - MAR 18```  **Fosterbin Technologies** AWB, MH, India - Web Designer 
+```JAN 17 - MAR 18```  **Fosterbin Technologies** AWB, MH, India - Web Designer
 
 
 
 ## 🛠 Skills
 - **Programming Languages:** C, Python, JavaScript, PHP, Go, Elm Lang 
 
-- **Frameworks:** d3js, p5js, web3js, OpenCV, OpenGL, React, Nodejs, Django, Bootstrap, jQuery
+- **Frameworks:** D3js, P5js, web3js, OpenCV, OpenGL, React, Nodejs, Django, Bootstrap, jQuery
 
 - **Databases:** PostgreSQL, GraphQL
 
-- **Design Tools:** Figma, Adobe (XD, Illustrator and PhotoShop), Affinity Designer and Photos, Blender.
+- **Design Tools:** Figma, Adobe XD, Illustrator and PhotoShop, Affinity Designer and Photos, Blender, MidJourney, OpenAI.
 
 
 ## 🎓 Education
