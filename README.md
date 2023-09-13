@@ -25,12 +25,11 @@ Hello World, I'm Creative Technologist and my curiosity and passion are for solv
 -->
 
 
-1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort, who hired me for designing an attractive and engaging resort website using WIX. Direct booking and inquiries via website increased exponentially.
+1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort website. Designed and Developed using Wix. Direct booking and inquiries via website increased exponentially.
 
-8. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I helped them with segregating product data and designed e-commerce website.
+8. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I handled segregating product data and designed e-commerce website.
 
 9. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
-I helped Anay, convert his Figma designs into website.
 
 10. **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. I assist them in building digital brand and website. 
 
