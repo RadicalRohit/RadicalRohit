@@ -84,14 +84,12 @@ From MIT, India | 2013 - 2015
 From Vivekananda College, MH, India | 2010 - 2013
 
 
-## [Béhance](https://www.behance.net/radicalrohit)
 
 
 ## 📫 How to reach me
 - Mobile: +918408057235
 - Email: rohit.ab.jadhav@gmail.com
-
-
+- ### [Béhance](https://www.behance.net/radicalrohit)
 
 
 
