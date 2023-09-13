@@ -9,6 +9,8 @@ Hello World, I'm Creative Technologist and my curiosity and passion are for solv
 
 #### **Projects**
 
+
+<!--
 1. **[Radical [•] Sphere](https://www.RadicalSphere.com/)** Developing an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
 
 2. **Bottle Regeneration Ai model** The project started with a challenge of creating 10,000 novel bottle design for water packaging company. We trained Ai model using 500  images of bottles on Google Colab. The project experience is now been implemented in developing Radical Sphere an Ai  image generative designing tool.
@@ -20,6 +22,8 @@ Hello World, I'm Creative Technologist and my curiosity and passion are for solv
 5. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar website. It allows users to register domains and manage their DNS records.
 
 6. 🚖 **[Safar Car Rental]()** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
+-->
+
 
 7. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort, who hired me for designing an attractive and engaging resort website using WIX. Direct booking and inquiries via website increased exponentially.
 
