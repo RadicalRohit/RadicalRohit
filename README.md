@@ -89,7 +89,7 @@ From Vivekananda College, MH, India | 2010 - 2013
 ## 📫 How to reach me
 - Mobile: +918408057235
 - Email: rohit.ab.jadhav@gmail.com
-- ### 🏛[Béhance](https://www.behance.net/radicalrohit)
+- #### [Béhance](https://www.behance.net/radicalrohit)
 
 
 
