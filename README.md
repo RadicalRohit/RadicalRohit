@@ -93,10 +93,7 @@ From Vivekananda College, MH, India | 2010 - 2013
 [Béhance](https://www.behance.net/radicalrohit) UIUX Designs Portfolio
 
 
-
-
-
-    <!-- 
+<!-- 
     - Developed an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
     - The interface generates novel designs with each click, leveraging state-of-the-art techniques.
     - The interface is powered by a GAN model trained on a dataset of 1.5 million images from the web.
