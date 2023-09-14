@@ -36,7 +36,7 @@ I have a strong background in Front-End Development, User Experience Research, U
 9. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
 
 10. **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. I assist them in building digital brand and website. 
-![Environ Propacks Website Screenshot](https://github.com/RadicalRohit/RadicalRohit/blob/f72c2e90b4e654ed10bb6b23ad0708b73a84e728/environ-propack-website-design-by-RadicalRohit.JPG))
+![Environ Propacks Website Screenshot](https://github.com/RadicalRohit/RadicalRohit/blob/d9583b29da6f993b5e936035a180c942d1066d5d/environ-propack-website-desiger-RadicalRohit.jpg)
 
 
 
