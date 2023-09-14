@@ -17,7 +17,6 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 2. **Bottle Regeneration Ai model** The project started with a challenge of creating 10,000 novel bottle design for water packaging company. We trained Ai model using 500  images of bottles on Google Colab. The project experience is now been implemented in developing Radical Sphere an Ai  image generative designing tool.
 
-3. 🧮 **[MathBoard](https://radicalrohit.github.io/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
 
 4. 🌩🖨🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
 
@@ -25,7 +24,8 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 6. 🚖 **[Safar Car Rental]()** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
 -->
-
+1. 🧮 **[MathBoard](https://radicalrohit.github.io/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
+![MathBoard iOS Keyboard Calculator App](https://github.com/RadicalRohit/RadicalRohit/blob/6f51932ed0e6ef17158ecf3666df76b4fd619860/MathBoard%20iOS%20Keyboard%20Calculator%20Designed%20by%20RadicalRohit.png)
 
 1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort website. Designed and Developed using Wix. Direct booking and inquiries via website increased exponentially.
 
