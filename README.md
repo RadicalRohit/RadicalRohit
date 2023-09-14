@@ -13,9 +13,9 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 
 <!--
-1. **[Radical [•] Sphere](https://www.RadicalSphere.com/)** Developing an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
+**[Radical [•] Sphere](https://www.RadicalSphere.com/)** Developing an AI-powered interface tailored for designers, revolutionizing their creative process by overcoming creative blocks through cutting-edge algorithms such as Generative Adversarial Networks (GANs).
 
-2. **Bottle Regeneration Ai model** The project started with a challenge of creating 10,000 novel bottle design for water packaging company. We trained Ai model using 500  images of bottles on Google Colab. The project experience is now been implemented in developing Radical Sphere an Ai  image generative designing tool.
+**Bottle Regeneration Ai model** The project started with a challenge of creating 10,000 novel bottle design for water packaging company. We trained Ai model using 500  images of bottles on Google Colab. The project experience is now been implemented in developing Radical Sphere an Ai  image generative designing tool.
 
 
 4. 🌩🖨🏭 **[Cloud Printing Factory](https://www.cloudprintingfactory.com/)** connects users to multiple printing technologies and services. 
@@ -27,16 +27,22 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 
 1. 🧮 **[MathBoard](https://radicalrohit.github.io/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
-![MathBoard iOS Keyboard Calculator App](https://github.com/RadicalRohit/RadicalRohit/blob/6f51932ed0e6ef17158ecf3666df76b4fd619860/MathBoard%20iOS%20Keyboard%20Calculator%20Designed%20by%20RadicalRohit.png)
 
-1. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort website. Designed and Developed using Wix. Direct booking and inquiries via website increased exponentially.
+  ![MathBoard iOS Keyboard Calculator App](https://github.com/RadicalRohit/RadicalRohit/blob/6f51932ed0e6ef17158ecf3666df76b4fd619860/MathBoard%20iOS%20Keyboard%20Calculator%20Designed%20by%20RadicalRohit.png)
 
-8. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I handled segregating product data and designed e-commerce website.
 
-9. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
+2. **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. I assist them in building digital brand and website.
 
-10. **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. I assist them in building digital brand and website. 
-![Environ Propacks Website Screenshot](https://github.com/RadicalRohit/RadicalRohit/blob/d9583b29da6f993b5e936035a180c942d1066d5d/environ-propack-website-desiger-RadicalRohit.jpg)
+  ![Environ Propacks Website Screenshot](https://github.com/RadicalRohit/RadicalRohit/blob/d9583b29da6f993b5e936035a180c942d1066d5d/environ-propack-website-desiger-RadicalRohit.jpg)
+
+
+3. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort website. Designed and Developed using Wix. Direct booking and inquiries via website increased exponentially.
+
+![Hiranya Resorts Designed by RadicalRohit](https://github.com/RadicalRohit/RadicalRohit/blob/b28160ed462ded6ad77fd2a6ab380810be7ae464/hiranaya-resorts-website-designed-by-RadicalRohit.jpeg)
+
+5. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I handled segregating product data and designed e-commerce website.
+
+6. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
 
 
 
