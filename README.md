@@ -1,7 +1,9 @@
 Rohit B. Jadhav (RadicalRohit)
 ===
 
-Hello World, I'm Creative Technologist and my curiosity and passion are for solving computational and environmental challenges. I have a strong background in Web Development, User Experience Desinging, as well as a deep understanding of Computer Science.
+Hello World, I'm **Creative Technologist** and my curiosity and passion are for solving **computational and environmental challenges**. 
+
+I have a strong background in Front-End Development, User Experience Research, User Interface Designing, as well as a deep understanding of Computer Science.
 
 
 
