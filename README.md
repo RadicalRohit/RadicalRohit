@@ -40,9 +40,9 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 ![Hiranya Resorts Designed by RadicalRohit](https://github.com/RadicalRohit/RadicalRohit/blob/b28160ed462ded6ad77fd2a6ab380810be7ae464/hiranaya-resorts-website-designed-by-RadicalRohit.jpeg)
 
-5. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I handled segregating product data and designed e-commerce website.
+4. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I handled segregating product data and designed e-commerce website.
 
-6. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
+5. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
 
 
 
