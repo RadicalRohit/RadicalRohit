@@ -1,4 +1,4 @@
-Rohit B. Jadhav (RadicalRohit)
+Rohit Jadhav 
 ===
 
 Hello World, I'm **Creative Technologist** and my curiosity and passion are for solving **computational and environmental challenges**. 
