@@ -30,7 +30,7 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 
 ``` UX Design``` 
-🧮 **[MathBoard](https://radicalrohit.github.io/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App.  
+🧮 **[MathBoard](https://www.behance.net/gallery/156919271/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App.  
 
   ![MathBoard iOS Keyboard Calculator App](https://github.com/RadicalRohit/RadicalRohit/blob/6f51932ed0e6ef17158ecf3666df76b4fd619860/MathBoard%20iOS%20Keyboard%20Calculator%20Designed%20by%20RadicalRohit.png)
 
