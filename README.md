@@ -22,29 +22,38 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 5. 🐕 **[Findoma.in](https://www.findoma.in/)** is a domain registrar website. It allows users to register domains and manage their DNS records.
 
-6. 🚖 **[Safar Car Rental]()** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
+6. 
 -->
 
+``` Comming Soon``` 
+🚖 **[Safar Car Rental]()** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
 
-1. 🧮 **[MathBoard](https://radicalrohit.github.io/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App. An iOS keyboard interface has been designed to calculate while texting.
+
+``` UX Design``` 
+🧮 **[MathBoard](https://radicalrohit.github.io/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App.  
 
   ![MathBoard iOS Keyboard Calculator App](https://github.com/RadicalRohit/RadicalRohit/blob/6f51932ed0e6ef17158ecf3666df76b4fd619860/MathBoard%20iOS%20Keyboard%20Calculator%20Designed%20by%20RadicalRohit.png)
 
 
-2. **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. I assist them in building digital brand and website.
+``` UIUX Design ``` ```Web Development``` 
+**[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. 
 
-  ![Environ Propacks Website Screenshot](https://github.com/RadicalRohit/RadicalRohit/blob/d9583b29da6f993b5e936035a180c942d1066d5d/environ-propack-website-desiger-RadicalRohit.jpg)
+![Environ Propacks Website Screenshot](https://github.com/RadicalRohit/RadicalRohit/blob/d9583b29da6f993b5e936035a180c942d1066d5d/environ-propack-website-desiger-RadicalRohit.jpg)
 
 
-3. 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort website. Designed and Developed using Wix. Direct booking and inquiries via website increased exponentially.
+```Wix``` ``` UIUX Design ```
+🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort website. Designed and Developed using Wix. Direct booking and inquiries via website increased exponentially.
 
 ![Hiranya Resorts Designed by RadicalRohit](https://github.com/RadicalRohit/RadicalRohit/blob/b28160ed462ded6ad77fd2a6ab380810be7ae464/hiranaya-resorts-website-designed-by-RadicalRohit.jpeg)
 
-4. **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I handled segregating product data and designed e-commerce website.
+``` UIUX Design ``` ``` E-commerce ```
+**[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I handled segregating product data and designed e-commerce website.
 
 ![Madhav Irrigation Website Designed and Developed by RadicalRohit](https://github.com/RadicalRohit/RadicalRohit/blob/f6cd2367cbb9f108a7d1dca139434d3bc89d1ced/madhav-irrigation-%20Designed-by-RadicalRohit.png)
 
-6. **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
+
+``` UI Development ```
+**[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
 
 ![KansoDesignWorks website developed by RadicalRohit](https://github.com/RadicalRohit/RadicalRohit/blob/c51b3432ab11907cf31084479dec0851520e4969/kanso%20design%20works%20website%20developed%20by%20RadicalRohit.png)
 
