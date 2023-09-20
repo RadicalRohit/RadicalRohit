@@ -90,8 +90,28 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 ## 🎓 Education
 
-### Master in Computer Application MCA
-From MIT, India | 2013 - 2015 
+```2013 - 2015``` **MCA Master in Computer Application** From MIT, India 
+
+```2010 - 2013``` **B.Sc.(CS) Bachelor in Computer Science** From Vivekananda College, MH, India  
+
+
+
+
+## 📫 Let's discuss projects together!!!
+**Mobile:** ```+91 84080 57235```      
+
+**Email:** ```rohit.ab.jadhav@gmail.com```
+
+
+#### Like and Follow me on [Béhance.net/radicalrohit](https://www.behance.net/radicalrohit)
+
+
+
+
+
+
+
+
 
 <!-- 
 #### Subjects:
@@ -108,24 +128,6 @@ From MIT, India | 2013 - 2015
 
   2. **FIFA Player Impact Engine:** The FIFA Player Impact Engine project was a groundbreaking initiative aimed at revolutionizing the realism and physics of player interactions within the FIFA video game series. It sought to create a more authentic and dynamic experience by accurately simulating the collisions, reactions, and physical interactions between players on the virtual soccer field.
 -->
-
-
-### Bachelor in Computer Science B.Sc.(CS)
-From Vivekananda College, MH, India | 2010 - 2013
-
-
-
-
-## 📫 ChatRadicalRohit
-- Mobile: +918408057235
-- Email: rohit.ab.jadhav@gmail.com
-
-
-### Like and Follow me on [Béhance.net/radicalrohit](https://www.behance.net/radicalrohit)
-
-
-
-
 
 
 <!-- 
