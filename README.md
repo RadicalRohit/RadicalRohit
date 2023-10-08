@@ -25,41 +25,38 @@ I have a strong background in Front-End Development, User Experience Research, U
 6. 
 -->
 
-``` Comming Soon``` 
-🚖 **[Safar Car Rental]()** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
-
 
 ![MathBoard iOS Keyboard Calculator App](https://github.com/RadicalRohit/RadicalRohit/blob/6f51932ed0e6ef17158ecf3666df76b4fd619860/MathBoard%20iOS%20Keyboard%20Calculator%20Designed%20by%20RadicalRohit.png)
-
 ``` UX Design``` ```iOS keyboard app``` 
 🧮 **[MathBoard](https://www.behance.net/gallery/156919271/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App.  
 
 
+&nbsp;
 ![Environ Propacks Website Screenshot](https://github.com/RadicalRohit/RadicalRohit/blob/d9583b29da6f993b5e936035a180c942d1066d5d/environ-propack-website-desiger-RadicalRohit.jpg)
-
 ``` UIUX Design ``` ```Web Development``` 
 **[Environ Propacks](https://environ-propack.web.app)** are trader in packaging related products who wanted to take their business to the next level in market. 
 
-
+&nbsp;
 ![Hiranya Resorts Designed by RadicalRohit](https://github.com/RadicalRohit/RadicalRohit/blob/b28160ed462ded6ad77fd2a6ab380810be7ae464/hiranaya-resorts-website-designed-by-RadicalRohit.jpeg)
-
 ```Wix``` ``` UIUX Design ```
 🏩 **[Hiranya Resorts](https://www.hiranyaresorts.com)** is a 5 star lakeside resort website. Designed and Developed using Wix. Direct booking and inquiries via website increased exponentially.
 
-
+&nbsp;
 ![Madhav Irrigation Website Designed and Developed by RadicalRohit](https://github.com/RadicalRohit/RadicalRohit/blob/f6cd2367cbb9f108a7d1dca139434d3bc89d1ced/madhav-irrigation-%20Designed-by-RadicalRohit.png)
-
-
 ``` UIUX Design ``` ``` E-commerce ```
 **[Madhav Irrigation](https://radicalrohit.github.io/Madhav-Irrigation)** is an e-commerce project of Madhav Irrigation products. I handled segregating product data and designed e-commerce website.
 
 
-
+&nbsp;
 ![KansoDesignWorks website developed by RadicalRohit](https://github.com/RadicalRohit/RadicalRohit/blob/c51b3432ab11907cf31084479dec0851520e4969/kanso%20design%20works%20website%20developed%20by%20RadicalRohit.png)
-
 ``` UI Development ```
 **[Kanso Design Works](https://kansodesignworks.co/)** is UIUX portfolio website of Anay Patil.
 
+
+
+&nbsp;
+```Comming Soon``` 
+🚖 **[Safar Car Rental]()** is a peer 2 peer cab/taxi booking network. Powered by Ai language model integrations 
 
 
 ## 👨🏻‍💻 Decade of Experience in Designing & Developing Digital and Physical Products. 
