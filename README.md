@@ -31,7 +31,7 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 ![MathBoard iOS Keyboard Calculator App](https://github.com/RadicalRohit/RadicalRohit/blob/6f51932ed0e6ef17158ecf3666df76b4fd619860/MathBoard%20iOS%20Keyboard%20Calculator%20Designed%20by%20RadicalRohit.png)
 
-``` UX Design``` 
+``` UX Design``` ```iOS keyboard app``` 
 🧮 **[MathBoard](https://www.behance.net/gallery/156919271/MathBoard)** is an iOS  calculator keyboard app. The problem of app switching between texting and calculating has been solved with MathBoard App.  
 
 
@@ -93,6 +93,15 @@ I have a strong background in Front-End Development, User Experience Research, U
 ```2013 - 2015``` **MCA Master in Computer Application** From MIT, India 
 
 ```2010 - 2013``` **B.Sc.(CS) Bachelor in Computer Science** From Vivekananda College, MH, India  
+
+
+## 📚 Books 
+
+1. Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug, 2013
+2. Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - Jake Knapp, 2016
+3. The Design of Everyday Things: Revised and Expanded Edition - Don Norman, 2013
+4. The Infographic History of the World - James Ball and Valentina D'Efilippo
+5. Knowledge Is Beautiful: Impossible Ideas, Invisible Patterns, Hidden Connections--Visualized
 
 
 
