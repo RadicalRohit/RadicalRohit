@@ -109,7 +109,6 @@ I have a strong background in Front-End Development, User Experience Research, U
 **Email:** ```rohit.ab.jadhav@gmail.com```
 
 
-#### Like and Follow me on [Béhance.net/radicalrohit](https://www.behance.net/radicalrohit)
 
 
 
