@@ -1,7 +1,7 @@
 Rohit Jadhav 
 ===
 
-Hello World, I'm **Creative Technologist** and my curiosity and passion are for solving **computational and environmental challenges**. 
+Hello World, I'm **Creative Technologist** and my curiosity and passion are for solving **computational design and environmental challenges**. 
 
 I have a strong background in Front-End Development, User Experience Research, User Interface Designing, as well as a deep understanding of Computer Science.
 
