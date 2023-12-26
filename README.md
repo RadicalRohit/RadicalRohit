@@ -9,7 +9,7 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 
 
-# **Projects**
+## **Projects**
 
 
 <!--
