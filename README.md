@@ -61,17 +61,8 @@ I have a strong background in Front-End Development, User Experience Research, U
 
 ## 👨🏻‍💻 Decade of Experience in Designing & Developing Digital and Physical Products. 
 
-```NOV 19 - PRESENT```  **Radical [•] Sphere** Remote, India - Creative Technologist, UI Designer and UX Researcher and AI Researcher
+```NOV 15 - PRESENT```  **Radical [•] Sphere** Remote, India - Creative Technologist, UI Designer and UX Researcher and AI Researcher
 
-```JAN 23 - PRESENT```  **Environ India** AWB, India - Environmentalist
-
-
-
-```JUL 19 - FEB 20```  **Kanso Deisgn Works** Pune, MH, India - UI Developer 
-
-```MAY 18 - JUN 19```  **EcoTech IT Services** Pune, MH, India - UI Developer 
-
-```JAN 17 - MAR 18```  **Fosterbin Technologies** AWB, MH, India - Web Designer
 
 
 
